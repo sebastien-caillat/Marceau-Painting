@@ -1,0 +1,19 @@
+{
+  "name": "marceau-painting",
+  "version": "1.0.0",
+  "description": "Site web de Marceau Couve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastien-caillat/Marceau-Painting.git"
+  },
+  "author": "Sébastien Caillat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastien-caillat/Marceau-Painting/issues"
+  },
+  "homepage": "https://github.com/sebastien-caillat/Marceau-Painting#readme"
+}
